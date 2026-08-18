@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on robocup line follower robot<br>🤝 I’m looking for help with competitve programming<br>🌱 I’m currently learning competitive programming<br>💬 Ask me about any topic concerning computer vision or embedded engineering<br>
+🔭 I’m currently working on MicroMouse robot<br>🤝 I’m looking for help with competitve programming<br>🌱 I’m currently learning Embedded programming<br>💬 Ask me about any topic concerning computer vision or embedded engineering<br>
 
 
 ## 🌐 Socials:
